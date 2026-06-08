@@ -13,3 +13,4 @@ const result = loop();
 console.log({ result });
 console.log("This loop has ran " + counter + " times");
 console.log("This loop has ran " + counter + " times");
+console.log("fdevnaseem");
